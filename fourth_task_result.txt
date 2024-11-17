@@ -1,0 +1,3 @@
+Mean Price: 5320.67
+Max Quantity: 997
+Min Quantity: 1
